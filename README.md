@@ -3,7 +3,7 @@ A bot thath scoope subredits and repost his content on twitter
 
 **Features:**
 
-* Can post to both Twitter and [Mastodon](https://joinmastodon.org/)
+* Can post to both Twitter 
 * Runs in the cloud with a free Heroku account, or locally on any PC with Python
 * Media from direct links, Gfycat, Imgur, Reddit, and Giphy is automatically attached in the social media post
 * Links that do not contain media can be skipped, ideal for meme accounts
