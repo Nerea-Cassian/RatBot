@@ -23,7 +23,7 @@ pip3 install requirements.txt
 * 2. By default, the bot will wait at least 600 seconds between tweets to prevent spamming. You can change this by editing the DelayBetweenTweets setting in the [BotSettings] section.
 * 3. By default, the bot will only look at the top 10 'hot' posts in a subreddit. You can change this by editing the PostLimit setting in the [BotSettings] section.
 * 4. You can enable or disable NSFW posts and self-posts, by changing NSFWPostsAllowed and SelfPostsAllowed to true or false.
-* 5. If you want Tootbot to only post media (images, GIFs, GIFV files, etc), set MediaPostsOnly to true.
+* 5. If you want Ratbot to only post media (images, GIFs, GIFV files, etc), set MediaPostsOnly to true.
 
 **Entering API information**
 Next, you need to run Tootbot to setup API access with Reddit, Imgur and Twitter
